@@ -9,15 +9,8 @@ headless: true
 weight: 10
 
 author: admin
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+Hey! I'm **Kieran**, a student based in Columbus, OH.
 
-Check out my [CV](/about/) and blog posts below 🌈
+Check out my blog posts below, or head over to my [GitHub](https://github.com/kcoderhtml)
