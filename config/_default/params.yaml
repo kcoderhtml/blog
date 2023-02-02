@@ -82,6 +82,8 @@ features:
       repo_id: 'R_kgDOI48RPg'
       category: 'Announcements'
       category_id: 'DIC_kwDOI48RPs4CT9Ou'
+      data-loading: 'lazy'
+      theme: 'transparent_dark'
   search:
     provider: wowchemy
     algolia:
