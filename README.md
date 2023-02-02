@@ -1,6 +1,6 @@
 <!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
-# [Hugo Academic Blog Theme](https://github.com/wowchemy/hugo-blog-theme)
+# [Hugo Academic Blog Theme](https://github.com/wowchemy/hugo-blog-theme) [![Netlify Status](https://api.netlify.com/api/v1/badges/ca2b4050-3e03-4e51-9241-206bd39d6417/deploy-status)](https://app.netlify.com/sites/jazzy-praline-3192c5/deploys)
 
 [![Screenshot](./preview.webp)](https://wowchemy.com/hugo-themes/)
 
