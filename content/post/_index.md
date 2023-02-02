@@ -10,4 +10,8 @@ flip_alt_rows: false
 banner:
   caption: ''
   image: ''
+
+# cascade:
+cascade:
+  editable: false
 ---
