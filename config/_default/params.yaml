@@ -21,18 +21,16 @@ marketing:
     description: 'My personal Blog'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
   verification:
     google: ''
-    baidu: ''
-
+    
 # Site header
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: r
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
@@ -60,11 +58,11 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: true
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/kcoderhtml/blog'
     content_dir: content
     branch: main
   avatar:
@@ -72,11 +70,6 @@ features:
     shape: circle
   comment:
     provider: 'giscus'
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
     giscus:
       repo: 'kcoderhtml/blog-comments'
       repo_id: 'R_kgDOI48RPg'
@@ -86,19 +79,7 @@ features:
       theme: 'transparent_dark'
   search:
     provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
   map:
     provider: ''
     api_key: ''
     zoom: 15
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: false
