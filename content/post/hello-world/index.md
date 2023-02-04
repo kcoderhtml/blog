@@ -40,11 +40,7 @@ In this blog, I'll be sharing tutorials on how to self-host a variety of service
 
 - Your own website
 - Minecraft server
-<<<<<<< HEAD
 - A Note taking app
-=======
-- Note taking app
->>>>>>> main
 - And whatever other applications I find on my own self-hosting journey
 
 I believe that self-hosting is important because it gives us power over our data. When we self-host our own services, we have total control over our information, and this control can never be taken away from us. I'm excited to share the knowledge I've found along the way and help you reclaim control of your data.
