@@ -46,6 +46,11 @@ locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
+security:
+  csp:
+    policy: "default-src 'self'; script-src 'report-sample' 'self' https://analytics.kieranklukas.com/js/script.js https://cdn.jsdelivr.net/npm/mathjax@3/es5/input/tex/extensions/noerrors.js https://identity.netlify.com/v1/netlify-identity-widget.js; style-src 'report-sample' 'self' https://fonts.googleapis.com; object-src 'none'; base-uri 'self'; connect-src 'self' https://analytics.kieranklukas.com; font-src 'self' https://cdn.jsdelivr.net https://fonts.gstatic.com; frame-src 'self'; img-src 'self'; manifest-src 'self'; media-src 'self'; report-uri https://63ddb5a91110c9e871bfd3c5.endpoint.csper.io/?v=2; worker-src 'none'"
+    report_only: true
+
 # Site features
 
 features:
