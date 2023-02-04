@@ -17,6 +17,8 @@ marketing:
   seo:
     site_type: Person
     description: 'My personal Blog'
+  verification:
+    google: 'sdqtCzyYSpt0or-ovQuZS1n7vRVRODf-y7blThHOjMM'
     
 # Site header
 
@@ -54,7 +56,7 @@ features:
   math:
     enable: true
   privacy_pack:
-    enable: true
+    enable: false
   repository:
     url: 'https://github.com/kcoderhtml/blog'
     content_dir: content
