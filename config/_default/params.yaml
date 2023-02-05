@@ -58,9 +58,9 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: true
-  privacy_pack:
     enable: false
+  privacy_pack:
+    enable: true
   repository:
     url: 'https://github.com/kcoderhtml/blog'
     content_dir: content
