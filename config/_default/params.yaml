@@ -48,11 +48,7 @@ locale:
 
 security:
   csp:
-<<<<<<< HEAD
     policy: "default-src 'self'; script-src 'report-sample' 'self' https://analytics.kieranklukas.com/js/script.outbound-links.js https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js https://cdn.jsdelivr.net/npm/mathjax@3/es5/input/tex/extensions/noerrors.js https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js https://giscus.app/client.js https://www.google.com/recaptcha/api.js https://www.gstatic.com/recaptcha/releases/gEr-ODersURoIfof1hiDm7R5/recaptcha__en.js https://identity.netlify.com/v1/netlify-identity-widget.js https://kieranklukas.com/cdn-cgi/challenge-platform/h/b/scripts/pica.js; style-src 'report-sample' 'self' https://fonts.googleapis.com; object-src 'none'; base-uri 'self'; connect-src 'self' https://analytics.kieranklukas.com; font-src 'self' https://cdn.jsdelivr.net https://fonts.gstatic.com; frame-src 'self' https://www.google.com; img-src 'self'; manifest-src 'self'; media-src 'self'; report-uri https://63deebdde3076651bce70e3d.endpoint.csper.io/?v=1; worker-src 'none'"
-=======
-    policy: "default-src 'self'; script-src 'report-sample' 'self' https://analytics.kieranklukas.com/js/script.outbound-links.js https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js https://cdn.jsdelivr.net/npm/mathjax@3/es5/input/tex/extensions/noerrors.js https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js https://giscus.app/client.js https://www.google.com/recaptcha/api.js https://www.gstatic.com/recaptcha/releases/gEr-ODersURoIfof1hiDm7R5/recaptcha__en.js; style-src 'report-sample' 'self' https://fonts.googleapis.com; object-src 'none'; base-uri 'self'; connect-src 'self' https://analytics.kieranklukas.com; font-src 'self' https://cdn.jsdelivr.net https://fonts.gstatic.com; frame-src 'self' https://www.google.com; img-src 'self'; manifest-src 'self'; media-src 'self'; report-uri https://63deebdde3076651bce70e3d.endpoint.csper.io/?v=1; worker-src 'none'"
->>>>>>> main
     report_only: true
 
 # Site features
